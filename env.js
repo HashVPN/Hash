@@ -1,0 +1,1 @@
+window.settings={title:"Hash Cloud",description:"Hash is Best",host:"https://api.hash.red",theme:{sidebar:"light",header:"dark",color:"default"}};
