@@ -1,1 +1,1 @@
-window.settings={title:'Hash Cloud',description:'IPLC专线机场',host:'https://api.hashyun.top',theme:{sidebar:'light',header:'dark',color:'default'},background_url:'',crisp_id:'',i18n:['zh-CN','en-US','ja-JP','vi-VN','ko-KR','zh-TW']}
+window.settings={title:'Hash Cloud',description:'IPLC专线机场',host:'https://api.hashyun.top',theme:{sidebar:'light',header:'dark',color:'default'},i18n:['zh-CN','en-US','ja-JP','vi-VN','ko-KR','zh-TW']}
