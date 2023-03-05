@@ -4,7 +4,7 @@ window.settings = {
   // 站点描述
   description: 'IPLC专线机场',
   // API
-  host: 'https://api.hashyun.top',
+  host: 'https://api.hashyun.xyz',
   // 主题
   theme: {
     sidebar: 'light',
